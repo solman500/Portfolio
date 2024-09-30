@@ -45,7 +45,7 @@ const portfolios = [
   },
   {
     id: "13",
-    imgUrl: portfolioImg12,
+    imgUrl: portfolioImg13,
     category: 'Web Design',
     title: "Tech PlatForm",
     description:
