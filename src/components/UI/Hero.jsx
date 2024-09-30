@@ -19,7 +19,9 @@ function Hero() {
               data-aos-duration="1500"
               className="test-headingColor font-[500] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading -[46px] mt-2"
             >
-             <span className="font-[600]">My name is</span> <span className="font-[300]">Ahmed soliman </span>  <br /> <span className="font-[600]"> Frontend Developer .</span>.<br /> 
+              <span className="font-[600]">My name is</span>{" "}
+              <span className="font-[300]">Ahmed soliman </span> <br />{" "}
+              <span className="font-[600]"> Frontend Developer .</span>.<br />
             </h2>
             <div
               data-aos="fade-up"
@@ -33,7 +35,7 @@ function Hero() {
                 </button>
               </a>
               <a
-                href="https://drive.google.com/file/d/1EoNFBZlUEOVlXc0kryioLRKeRjZVJa2N/view?usp=sharing"
+                href="https://drive.google.com/file/d/1AUx7NSjK1HRBQaiCMwtngzHw1Y068E5S/view?usp=drive_link"
                 download="Ahmed soliman.pdf"
                 target="_blank"
                 className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]"
@@ -68,7 +70,8 @@ function Hero() {
                 Follow Me:
               </span>
               <span>
-                <a target="_blank"
+                <a
+                  target="_blank"
                   href="https://www.facebook.com/sOoLManN/"
                   className="text-smallTextColor text-[15px] font-[600] "
                 >
@@ -76,7 +79,8 @@ function Hero() {
                 </a>
               </span>
               <span>
-                <a target="_blank"
+                <a
+                  target="_blank"
                   href="https://www.linkedin.com/in/ahmed-soliman-2564a01ba/"
                   className="text-smallTextColor text-[15px] font-[600] "
                 >
@@ -84,7 +88,8 @@ function Hero() {
                 </a>
               </span>
               <span>
-                <a target="_blank"
+                <a
+                  target="_blank"
                   href="https://github.com/solman500"
                   className="text-smallTextColor text-[15px] font-[600] "
                 >
@@ -92,7 +97,8 @@ function Hero() {
                 </a>
               </span>
               <span>
-                <a target="_blank"
+                <a
+                  target="_blank"
                   href="https://www.instagram.com/a.soliiman/"
                   className="text-smallTextColor text-[15px] font-[600] "
                 >
