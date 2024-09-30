@@ -10,6 +10,7 @@ import portfolioImg09 from "../images/portfolio-09.png";
 import portfolioImg10 from "../images/portfolio-10.png";
 import portfolioImg11 from "../images/portfolio-11.png";
 import portfolioImg12 from "../images/portfolio-12.png";
+import portfolioImg13 from "../images/portfolio-13.png";
 
 const portfolios = [
   {
@@ -41,6 +42,16 @@ const portfolios = [
       " e-Commerce website for booking Appointment for Doctors   ",
     technologies: ["Reactjs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS","CORS"],
     siteUrl: "https://github.com/solman500/Medical-Care",
+  },
+  {
+    id: "13",
+    imgUrl: portfolioImg12,
+    category: 'Web Design',
+    title: "Tech PlatForm",
+    description:
+      " e-Commerce website for booking udemy courses   ",
+    technologies: ["NextJS","ReactJS", "Tailwind css", "Stripe payment","strapi backend ","Hyper ui"],
+    siteUrl: "https://github.com/solman500/tech-platform/tree/main",
   },
   {
     id: "10",
