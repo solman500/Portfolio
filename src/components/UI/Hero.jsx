@@ -35,7 +35,7 @@ function Hero() {
                 </button>
               </a>
               <a
-                href="https://drive.google.com/file/d/1xxEKkU4pgyqtWy-aH9XylkEB4w7x7USL/view?usp=sharing"
+                href="https://drive.google.com/file/d/1WscknvWQZZl8dwzXzHJb3lCdFyPuHflY/view?usp=sharing"
                 download="Ahmed soliman.pdf"
                 target="_blank"
                 className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]"
