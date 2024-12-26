@@ -61,7 +61,7 @@ const portfolios = [
     description:
       "delivery website for pizza and Burger ",
     technologies: ["reactjs","NodeJs","firebase","tailwind","javascript", "bootstrap"],
-    siteUrl: "https://delivery-pizza-three.vercel.app/home",
+    siteUrl: "https://delivery-pizza-three.vercel.app",
   },
   {
     id: "08",
