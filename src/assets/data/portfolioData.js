@@ -13,6 +13,7 @@ import portfolioImg12 from "../images/portfolio-12.png";
 import portfolioImg13 from "../images/portfolio-13.png";
 import portfolioImg14 from "../images/portfolio-14.png";
 import portfolioImg15 from "../images/portfolio-15.png";
+import portfolioImg16 from "../images/portfolio-16.png";
 
 const portfolios = [
   {
@@ -34,6 +35,16 @@ const portfolios = [
       " e-Commerce website for booking Hotels and rooms in different countries  ",
     technologies: ["Reactjs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS","CORS"],
     siteUrl: "https://github.com/solman500/Travel-Tour",
+  },
+  {
+    id: "16",
+    imgUrl: portfolioImg16,
+    category: 'Web Design',
+    title: "EnjoySpots",
+    description:
+      " enjoySpots website for booking and reservation [Yachts-waterSport-Desert-Helicoptar] ",
+    technologies: ["NextJs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS",],
+    siteUrl: "",
   },
   {
     id: "12",
