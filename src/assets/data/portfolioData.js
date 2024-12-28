@@ -11,6 +11,8 @@ import portfolioImg10 from "../images/portfolio-10.png";
 import portfolioImg11 from "../images/portfolio-11.png";
 import portfolioImg12 from "../images/portfolio-12.png";
 import portfolioImg13 from "../images/portfolio-13.png";
+import portfolioImg14 from "../images/portfolio-14.png";
+import portfolioImg15 from "../images/portfolio-15.png";
 
 const portfolios = [
   {
@@ -41,18 +43,19 @@ const portfolios = [
     description:
       " e-Commerce website for booking Appointment for Doctors   ",
     technologies: ["Reactjs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS","CORS"],
-    siteUrl: "https://github.com/solman500/Medical-Care",
+    siteUrl: "https://medical-care-tbdf.vercel.app",
   },
   {
-    id: "13",
-    imgUrl: portfolioImg13,
-    category: 'Web Design',
-    title: "Tech PlatForm",
+    id: "14",
+    imgUrl: portfolioImg14,
+    category: "Web Design",
+    title: "Aqarrat Website for appartment",
     description:
-      " e-Commerce website for booking udemy courses   ",
-    technologies: ["NextJS","ReactJS", "Tailwind css", "Stripe payment","strapi backend ","Hyper ui"],
-    siteUrl: "https://github.com/solman500/tech-platform/tree/main",
+      "e-commerce website for booking appartment",
+    technologies: ["NextJs", "tailwindCss","NodeJs","MongoDB","DigitalOcean","Swagger"],
+    siteUrl: "https://aqarathub.com/",
   },
+  
   {
     id: "10",
     imgUrl: portfolioImg10,
@@ -74,6 +77,26 @@ const portfolios = [
     siteUrl: "https://sunny-kataifi-32b08f.netlify.app/",
   },
   {
+    id: "13",
+    imgUrl: portfolioImg13,
+    category: 'Web Design',
+    title: "Tech PlatForm",
+    description:
+      " e-Commerce website for booking udemy courses   ",
+    technologies: ["NextJS","ReactJS", "Tailwind css", "Stripe payment","strapi backend ","Hyper ui"],
+    siteUrl: "https://github.com/solman500/tech-platform/tree/main",
+  },
+  {
+    id: "15",
+    imgUrl: portfolioImg15,
+    category: "Web Design",
+    title: "Dashboard",
+    description:
+      "Dashbourd for contacting customers and controlers",
+    technologies: ["reactjs", "prime","....."],
+    siteUrl: "https://enjoy-spot-dashboard-front-end.vercel.app/",
+  },
+  {
     id: "09",
     imgUrl: portfolioImg09,
     category: "Web Design",
@@ -83,6 +106,7 @@ const portfolios = [
     technologies: ["javaScript", "html","css","bootstrap"],
     siteUrl: "https://6583f9ff215c8cc5986c9fcc--jolly-pothos-a34d6a.netlify.app/",
   },
+
   {
     id: "02",
     imgUrl: portfolioImg02,
