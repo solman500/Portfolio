@@ -107,19 +107,7 @@ const Footer = () => {
                 Ahmed Soliman
               </span>
             </div>
-            <div className="flex items-center gap-4">
-              <span className="text-gray-400 font-[500] text-[15px]">
-                Terms
-              </span>
-              <span className="text-gray-400 font-[500] text-[15px]">|</span>
-              <span className="text-gray-400 font-[500] text-[15px]">
-                Privacy
-              </span>
-              <span className="text-gray-400 font-[500] text-[15px]">|</span>
-              <span className="text-gray-400 font-[500] text-[15px]">
-                Cookies
-              </span>
-            </div>
+            
           </div>
         </div>
       </div>
