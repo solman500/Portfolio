@@ -31,11 +31,8 @@ function Hero() {
             >
               <a href="mailto:ahmedsolliman28@gmail.com" target="_blank">
                 <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                 
-                  
                   <i className="ri-mail-line"></i>
                   Hire.Me
-                
                 </button>
               </a>
               <a
@@ -62,12 +59,19 @@ function Hero() {
               <span>
                 <i class="ri-apps-2-line"></i>
               </span>
-              "Driven by curiosity, I embrace challenges with an open mind,
-              seeking innovative solutions. Through my adaptability and passion
-              for learning, I aim to contribute valuable insights and creativity
-              to every endeavor. I bring a blend of determination,
-              resourcefulness, and a collaborative spirit to achieve impactful
-              results, striving for excellence in all that I do."
+              "Frontend Developer (Next.js, React.js, React Native) – Summary
+              Results-driven Frontend Developer with expertise in Next.js,
+              React.js, and React Native, specializing in building scalable,
+              high-performance web and mobile applications. Skilled in
+              server-side rendering (SSR), client-side rendering (CSR), and API
+              integration, ensuring seamless user experiences across platforms.
+              Proficient in modern UI/UX design, state management (Redux,
+              Zustand), and performance optimization, reducing load times and
+              improving efficiency. Passionate about developing cross-platform
+              solutions with React Native, delivering responsive and engaging
+              applications. Adept at collaborating with teams to implement best
+              practices, testing strategies, and accessibility standards for
+              robust digital experiences."
             </p>
             <div className="flex items-center gap-9 mt-14">
               <span className="text-smallTextColor text-[15px] font-[600]">
