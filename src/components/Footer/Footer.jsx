@@ -91,7 +91,7 @@ const Footer = () => {
           </div> */}
       </div>
 
-      <div className="bg-[#1b1e29] py-3 mt-14">
+      {/* <div className="bg-[#1b1e29] py-3 mt-14">
         <div className="container">
           <div className="flex items-center jsutify-center sm:justify-between">
             <div className="flex items-center gap-4">
@@ -110,7 +110,7 @@ const Footer = () => {
             
           </div>
         </div>
-      </div>
+      </div> */}
 
 
       <div>
