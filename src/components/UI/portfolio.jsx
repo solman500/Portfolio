@@ -49,20 +49,20 @@ function Portfolio() {
           </div>
           <div className="flex gap-3">
             <button
-              className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
+              className="text-smallTextColor border p-1 px-3 border-solid border-smallTextColor   rounded-[8px]"
               onClick={() => setSelectTab("all")}
             >
               All
             </button>
             <button
               onClick={() => setSelectTab("web-design")}
-              className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
+              className="text-smallTextColor border p-1 border-solid border-smallTextColor  rounded-[8px]"
             >
               Wep Design
             </button>
             <button
               onClick={() => setSelectTab("mobile-app")}
-              className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
+              className="text-smallTextColor border p-1 border-solid border-smallTextColor  rounded-[8px]"
             >
               Mobile App
             </button>

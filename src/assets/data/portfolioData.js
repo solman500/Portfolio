@@ -42,7 +42,7 @@ const portfolios = [
     category: 'Web Design',
     title: "EnjoySpots",
     description:
-      " enjoySpots website for booking and reservation [Yachts-waterSport-Desert-Helicoptar] ",
+      " enjoySpots website for Entertainment ",
     technologies: ["NextJs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS",],
     siteUrl: "",
   },

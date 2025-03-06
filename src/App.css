@@ -68,5 +68,9 @@ section {
     justify-content: center;
     align-items: center;
   }
+  
 
+  .show__menu{
+    display: block;
+  }
 } 

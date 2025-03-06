@@ -50,7 +50,7 @@ const Contact = () => {
 
 
   return (
-    <section id="contact" className="pb-16">
+    <section id="contact" className="pb-16 ">
       <div className="continer">
         <h2 className="text-headingColor  font-[700] text-[2rem] mb-8">
           Get in Touch
@@ -67,7 +67,7 @@ const Contact = () => {
             ></iframe>
           </div>
 
-          <div className="w-full mt-8 md:mt-0 md:w-1/2 sm:h-[450px] lg:flex items-center bg-indigo-100 px-4 lg:px-8 py-8">
+          <div className="w-full mt-8 md:mt-0 md:w-1/2 sm:h-[450px] lg:flex items-center bg-indigo-100 px-4  py-8">
             <form className="w-full" onSubmit={handleSubmit}>
               <div className="mb-5">
                 <input
