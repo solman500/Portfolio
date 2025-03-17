@@ -14,6 +14,7 @@ import portfolioImg13 from "../images/portfolio-13.png";
 import portfolioImg14 from "../images/portfolio-14.png";
 import portfolioImg15 from "../images/portfolio-15.png";
 import portfolioImg16 from "../images/portfolio-16.png";
+import portfolioImg17 from "../images/portfolio-17.png";
 
 const portfolios = [
   {
@@ -44,7 +45,17 @@ const portfolios = [
     description:
       " enjoySpots website for Entertainment ",
     technologies: ["NextJs", "Tailwind css", "MongoDB","ExpressJS","JWT","NodeJS",],
-    siteUrl: "",
+    siteUrl: "https://www.enjoyspot.com/",
+  },
+  {
+    id: "17",
+    imgUrl: portfolioImg17,
+    category: 'Web Design',
+    title: "EnjoySpots Dashboard",
+    description:
+      " Admin Panel ",
+    technologies: ["Reactjs", "Tailwind css", "Zustand",],
+    siteUrl: "https://enjoyspot1.vercel.app/",
   },
   {
     id: "12",
