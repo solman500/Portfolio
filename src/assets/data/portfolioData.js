@@ -15,6 +15,7 @@ import portfolioImg14 from "../images/portfolio-14.png";
 import portfolioImg15 from "../images/portfolio-15.png";
 import portfolioImg16 from "../images/portfolio-16.png";
 import portfolioImg17 from "../images/portfolio-17.png";
+import portfolioImg18 from "../images/portfolio-18.png";
 
 const portfolios = [
   {
@@ -56,6 +57,16 @@ const portfolios = [
       " Admin Panel ",
     technologies: ["Reactjs", "Tailwind css", "Zustand",],
     siteUrl: "https://enjoyspot1.vercel.app/",
+  },
+  {
+    id: "18",
+    imgUrl: portfolioImg18,
+    category: 'Web Design',
+    title: "TODO App",
+    description:
+      " todo app for mange your tasks ",
+    technologies: ["NextJS", "Tailwind css", "Zustand","shadcn " ,"dnd kit "],
+    siteUrl: "https://todo-app-livid-alpha-52.vercel.app/",
   },
   {
     id: "12",
