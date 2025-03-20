@@ -69,23 +69,23 @@ function Portfolio() {
           </div>
         </div>
 
-        <div className="flex items-center gap-4 flex-wrap">
+        <div className="flex items-center gap-4 flex-wrap ">
           {portfolios?.slice(0, nextItems)?.map((portfolio, index) => (
             <div
               data-aos="fade-zoom-in"
               data-aos-delay="50"
               data-aos-duration="1000"
-              className="group max-w-full sm:w-[48.5%] md:w-[31.8%] lg:w-[32.2] relative z-[1]"
+              className="group max-w-full sm:w-[48.5%] md:w-[31.8%] lg:w-[32.2] relative z-[1] border border-rounded-[8px] rounded-[8px] border-primaryColor "
               key={index}
             >
               <figure>
                 <img
-                  className="rounded-[8px]"
+                  className="rounded-[8px] object-cover w-full h-[200px] sm:h-[250px] md:h-[300px] lg:h-[350px]"
                   src={portfolio.imgUrl}
                   alt="port"
                 />
               </figure>
-              <div className="w-full h-full bg-primaryColor bg-opacity-40 absolute top-5 left-0 z-[5] opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <div className="w-full h-full bg-primaryColor bg-opacity-40 absolute top-0 left-0 z-[5] opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <div className="w-full h-full flex items-center justify-center">
                   <button
                     onClick={() => showModelHandler(portfolio.id)}
