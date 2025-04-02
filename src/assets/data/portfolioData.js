@@ -76,7 +76,7 @@ const portfolios = [
     title: "AI Image generated ",
     description:
       " AI Image generated  ",
-    technologies: ["NextJS", "Tailwind css", "AOS","shadcn " ,"react-multi-carousel "],
+    technologies: ["NextJS","RapaidAPI", "Tailwind css", "AOS","shadcn " ,"react-multi-carousel "],
     siteUrl: "https://img-generate-orcin.vercel.app/",
   },
   {
