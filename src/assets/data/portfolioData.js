@@ -16,6 +16,7 @@ import portfolioImg15 from "../images/portfolio-15.png";
 import portfolioImg16 from "../images/portfolio-16.png";
 import portfolioImg17 from "../images/portfolio-17.png";
 import portfolioImg18 from "../images/portfolio-18.png";
+import portfolioImg19 from "../images/portfolio-19.png";
 
 const portfolios = [
   {
@@ -67,6 +68,16 @@ const portfolios = [
       " todo app for mange your tasks ",
     technologies: ["NextJS", "Tailwind css", "Zustand","shadcn " ,"dnd kit "],
     siteUrl: "https://todo-app-livid-alpha-52.vercel.app/",
+  },
+  {
+    id: "19",
+    imgUrl: portfolioImg19,
+    category: 'Web Design',
+    title: "AI Image generated ",
+    description:
+      " AI Image generated  ",
+    technologies: ["NextJS", "Tailwind css", "AOS","shadcn " ,"react-multi-carousel "],
+    siteUrl: "https://img-generate-orcin.vercel.app/",
   },
   {
     id: "12",
