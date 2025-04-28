@@ -131,7 +131,9 @@ function Service() {
                           Web Design (UI/UX)
                         </h3>
                         <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7 ">
-                        "Proficient in UI/UX design, combining creativity and user-centric strategies to craft engaging and intuitive digital experiences."
+                        "As a frontend developer, I prioritize creating seamless and user-friendly interfaces.
+I use Figma to design intuitive layouts that enhance user interaction and visual appeal.
+My goal is to deliver responsive, accessible, and engaging web experiences across all devices."
                         </p>
                       </div>
                     </div>
