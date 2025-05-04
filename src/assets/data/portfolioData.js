@@ -94,7 +94,7 @@ const portfolios = [
       "NodeJS",
       "CORS",
     ],
-    siteUrl: "https://github.com/solman500/Travel-Tour",
+    siteUrl: "https://traveltoursah.netlify.app",
   },
   {
     id: "06",
@@ -104,7 +104,7 @@ const portfolios = [
     description: "Amazon e-Commerce website for shoping products ",
     technologies: ["Reactjs", "Tailwind css", "Fairebase", "Mui"],
     siteUrl:
-      "https://6583ed17727b0075bf888ace--spectacular-crostata-958feb.netlify.app/",
+      "https://amazon-ecommerce1.netlify.app/",
   },
   {
     id: "07",
