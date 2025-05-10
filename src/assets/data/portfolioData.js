@@ -17,6 +17,7 @@ import portfolioImg16 from "../images/portfolio-16.png";
 import portfolioImg17 from "../images/portfolio-17.png";
 import portfolioImg18 from "../images/portfolio-18.png";
 import portfolioImg19 from "../images/portfolio-19.png";
+import portfolioImg20 from "../images/portfolio-20.png";
 
 const portfolios = [
   {
@@ -34,6 +35,24 @@ const portfolios = [
       "NodeJS",
     ],
     siteUrl: "https://www.enjoyspot.com/",
+  },
+  {
+    id: "06",
+    imgUrl: portfolioImg01,
+    category: "Web Design",
+    title: "Amazon Website",
+    description: "Amazon e-Commerce website for shoping products ",
+    technologies: ["Reactjs", "Tailwind css", "Fairebase", "Mui"],
+    siteUrl: "https://amazon-ecommerce1.netlify.app/",
+  },
+  {
+    id: "20",
+    imgUrl: portfolioImg20,
+    category: "Web Design",
+    title: "Inshaat Website",
+    description: " For making building and property as you Like in Emirates ",
+    technologies: ["Reactjs", "Tailwind css", "i18n", "HookForm","prime react"],
+    siteUrl: "https://inshaat-8qu6.vercel.app/",
   },
   {
     id: "02",
@@ -68,15 +87,6 @@ const portfolios = [
     ],
     siteUrl: "https://medical-care-tbdf.vercel.app",
   },
-  {
-    id: "04",
-    imgUrl: portfolioImg15,
-    category: "Web Design",
-    title: "EnjoySpots Dashboard",
-    description: " Admin Panel ",
-    technologies: ["Reactjs", "Tailwind css", "Zustand"],
-    siteUrl: "https://dashboard.enjoyspot.com/",
-  },
   
   {
     id: "05",
@@ -97,15 +107,15 @@ const portfolios = [
     siteUrl: "https://traveltoursah.netlify.app",
   },
   {
-    id: "06",
-    imgUrl: portfolioImg01,
+    id: "04",
+    imgUrl: portfolioImg15,
     category: "Web Design",
-    title: "Amazon Website",
-    description: "Amazon e-Commerce website for shoping products ",
-    technologies: ["Reactjs", "Tailwind css", "Fairebase", "Mui"],
-    siteUrl:
-      "https://amazon-ecommerce1.netlify.app/",
+    title: "EnjoySpots Dashboard",
+    description: " Admin Panel ",
+    technologies: ["Reactjs", "Tailwind css", "Zustand"],
+    siteUrl: "https://dashboard.enjoyspot.com/",
   },
+
   {
     id: "07",
     imgUrl: portfolioImg19,
@@ -225,7 +235,6 @@ const portfolios = [
   //   siteUrl: "https://github.com/solman500/Amazon-Dashboard",
   // },
 
-
   // {
   //   id: "03",
   //   imgUrl: portfolioImg03,
@@ -246,7 +255,6 @@ const portfolios = [
   //   siteUrl:
   //     "https://6583fc3d0888fbc66606ac74--mellow-eclair-131894.netlify.app/",
   // },
-
 
   // {
   //   id: "07",

@@ -36,7 +36,7 @@ function Hero() {
                 </button>
               </a>
               <a
-                href="https://drive.google.com/file/d/17LWp9pvXDAaMxNe-KjfuYcbjsNVorNav/view?usp=sharing"
+                href="https://drive.google.com/file/d/1zjM6PRDqYIH5PvkYvgREROdl-uDxG_n1/view?usp=sharing"
                 download="AhmedSOnextReactJS.pdf"
                 target="_blank"
                 className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]"
